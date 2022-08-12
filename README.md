@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Kevin! <br/>
 
-<!--
-**KevinMReardon/KevinMReardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>NLP & Machine Learning Algorithm</b>
+  - [Project Description](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Log Manager Program</b>
+  - [Project Description](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Branch & Bound Algorithm</b>
+  - [Project Description](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>MST Algorithm</b>
+  - [Project Description](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Add Another Project</b>
+  - [Project Description](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
