@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NLP & Machine Learning Algorithm</b>
-  - [Project Description](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project Code](https://github.com/KevinMReardon/NLP_Classifier)
 - <b>Log Manager Program</b>
   - [Project Description](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Branch & Bound Algorithm</b>
