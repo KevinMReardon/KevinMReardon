@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NLP & Machine Learning Algorithm</b>
-  - [Project Description]
+  - [Project Description](https://github.com/KevinMReardon/NLP_Classifier/blob/main/README.md)
   - [Project Code](https://github.com/KevinMReardon/NLP_Classifier)
 - <b>Log Manager Program</b>
   - [Project Description]
