@@ -3,13 +3,15 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NLP & Machine Learning Algorithm</b>
+  - [Project Description]
   - [Project Code](https://github.com/KevinMReardon/NLP_Classifier)
 - <b>Log Manager Program</b>
+  - [Project Description]
   - [Project Code](https://github.com/KevinMReardon/LogManagerProgram/tree/main/LogManagerProgram)
 - <b>Minimal Spanning Tree and Traveling Sales Person Calculator</b>
-  - [Project Description](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>MST Algorithm</b>
-  - [Project Description](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Project Description]
+  - [Project Code](https://github.com/KevinMReardon/MSTandTSPcalc/tree/main/MSTandTSPcalc)
 - <b>Add Another Project</b>
-  - [Project Description](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Project Description]
+  - [Project Code]
 
