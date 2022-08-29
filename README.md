@@ -6,7 +6,7 @@
   - [Project Code](https://github.com/KevinMReardon/NLP_Classifier)
 - <b>Log Manager Program</b>
   - [Project Code](https://github.com/KevinMReardon/LogManagerProgram/tree/main/LogManagerProgram)
-- <b>Branch & Bound Algorithm</b>
+- <b>Minimal Spanning Tree and Traveling Sales Person Calculator</b>
   - [Project Description](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>MST Algorithm</b>
   - [Project Description](https://github.com/joshmadakor1/EncrypterPOC)
