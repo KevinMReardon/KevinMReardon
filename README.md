@@ -11,7 +11,4 @@
 - <b>Minimal Spanning Tree and Traveling Sales Person Calculator</b>
   - [Project Description]
   - [Project Code](https://github.com/KevinMReardon/MSTandTSPcalc/tree/main/MSTandTSPcalc)
-- <b>Add Another Project</b>
-  - [Project Description]
-  - [Project Code]
 
